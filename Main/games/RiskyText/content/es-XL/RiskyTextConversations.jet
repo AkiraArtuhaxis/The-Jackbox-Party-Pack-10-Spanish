@@ -1,0 +1,2367 @@
+{
+ "content": [
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "96982_es-XL",
+   "partner": "Mi muy buena amistad",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Pregunta al azar: ¿qué piensas de salir con amigos con las que tienes relaciones platónicas pero que están secretamente enamorados de ti?",
+     "player": "¡Eh! Bueno... Es que es complicado, porque..."
+    },
+    {
+     "partner": "Está bien, pero... ¿qué le dirías a esa persona (que no soy yo) si te invitaran a una cita?",
+     "player": "Qué buena pregunta. Definitivamente, diría..."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "96983_es-XL",
+   "partner": "Capitán Awhooga",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¿Todavía me tienes como \"Capitán Awhooga\" en tu agenda?",
+     "player": "¡Ja, ja, ja! Es porque yo... Ya sabes ;D..."
+    },
+    {
+     "partner": "Espera, ¿no recuerdas mi nombre? ¿Cómo me llamo?",
+     "player": "¡Ah, sí! Me acuerdo, por supuesto. Te llamas {{POPWORD}}. No, te llamas..."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "96984_es-XL",
+   "partner": "Brad, del local de malteadas.",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¿Qué se te apetece junto a tu malteada, cariño?",
+     "player": "Aaah... Nada más que un poco de {{POPWORD}}. Espero que sepas a qué me refiero."
+    },
+    {
+     "partner": "...No creo que tengamos.",
+     "player": "¿Y qué hay de {{POPWORD}}? Así le digo a los besos ;D."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "96997_es-XL",
+   "id": "96996_es-XL",
+   "partner": "Harold, gerente de la PIZZERÍA",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Oye, Lexie se reportó enferma. Necesito que vengas de inmediato.",
+     "player": "Um... pero hoy es mi día libre..."
+    },
+    {
+     "partner": "No sé qué tiene que ver eso. Ven rápido.",
+     "player": "Escucha... Harold, por favor..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "96998_es-XL",
+   "id": "96997_es-XL",
+   "partner": "Harold, gerente de la PIZZERÍA (de nuevo)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Siempre fuiste un buen trabajador. No quiero tener que reportarte.",
+     "player": "Está bien, pero... parece que sí quieres..."
+    },
+    {
+     "partner": "Qué respuesta tan indignante. ¿Quieres conservar tu trabajo?",
+     "player": "¡Eres un {{POPWORD}}, Harold! ¡¿No te importa lo que me pase?!"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "96998_es-XL",
+   "id": "96998_es-XL",
+   "partner": "Harold, gerente de la PIZZERÍA (otra vez)",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Si vienes, dejaré que te lleves una pizza :)",
+     "player": "Vaya... qué buena oferta. Crees que soy como {{PLAYER}}."
+    },
+    {
+     "partner": "¡Vamos! ¡Somos familia!",
+     "player": "Si somos familia, ¿por qué me tratas como {{POPWORD}}? ¡¿POR QUÉ?!"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "97074_es-XL",
+   "id": "97073_es-XL",
+   "partner": "Sharon, la novia",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "No puedo esperar para verte, peque. ¿Cuál es mi sorpresa?",
+     "player": "No te diré. ¡Shh!"
+    },
+    {
+     "partner": "Ayyy, vamos. Me mata la curiosidad, amor. ¡Dímelo ya!",
+     "player": "Pues tendrás que esperar. ¡Ten paciencia! Besos."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "97075_es-XL",
+   "id": "97074_es-XL",
+   "partner": "Sharon, la novia (¡!)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¿Es algo que cambiará nuestras vidas? ¿Podría ser {{POPWORD}}?",
+     "player": "¡Ya verás! No quiero arruinar la sorpresa :D"
+    },
+    {
+     "partner": "Puede que tu intención no sea mala, pero la curiosidad de verdad ME ESTÁ MATANDO.",
+     "player": "Claro que no quiero herirte. Nos vemos."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "97075_es-XL",
+   "id": "97075_es-XL",
+   "partner": "Sharon, la novia (¡¡!!)",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¡¡DIME!! ¡¡Dime la sorpresa!!",
+     "player": "¿Quieres saber? Tendrás que preguntarle a {{PLAYER}}."
+    },
+    {
+     "partner": "YA DIME.",
+     "player": "Esta es una prueba: {{POPWORD}}. ¡Besos!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "97084_es-XL",
+   "id": "97080_es-XL",
+   "partner": "ID DESCONOCIDO",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Hola, señor Bosephus. Estoy de camino a recoger mi salmón.",
+     "player": "Lo siento. Espera... ja, ja, ja... ¿Qué?"
+    },
+    {
+     "partner": "No hace falta engañarme, señor Bosephus. Con el salmón bastará.",
+     "player": "No, no. Creo que tienes el número equivocado."
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "97730_es-XL",
+   "id": "97084_es-XL",
+   "partner": "ID DESCONOCIDO (2 LLAMADAS PERDIDAS)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Estoy en su domicilio, señor Bosephus. ¿Dónde está el salmón?",
+     "player": "¿Qué? ¿Cómo? ¿Que vas a usarlo para qué? ¿{{POPWORD}}?"
+    },
+    {
+     "partner": "Eso no tiene sentido, señor Bosephus. Usted sabe para qué es el salmón.",
+     "player": "¡No! ¡No lo sé! ¡Pero me gustaría muchísimo que me lo dijeras!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97089_es-XL",
+   "partner": "Papá",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¡Acabo de encender la parrilla! ¿Podrías traer los platos, las bebidas, las servilletas, {{POPWORD}}, la carne y el pan?",
+     "player": "¿Eh...? ¿¿Por qué no me avisaste antes??"
+    },
+    {
+     "partner": "¡Vamos, pequeñín! Hazlo por tu papá...",
+     "player": "Bueno, si tengo tiempo... ¡tal vez!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97091_es-XL",
+   "partner": "Hermano mayor",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Oye, estoy algo corto de dinero, pero ¿quieres comprarle un regalo a mamá a medias?",
+     "player": "¿Qué? Claro. Supongo que... no hay problema."
+    },
+    {
+     "partner": "Genial. Se me ocurrió que alguna joya o un pase para el spa. Yo me encargo de la tarjeta.",
+     "player": "¡¿No te parece que deberíamos charlarlo mejor en el almuerzo?!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97092_es-XL",
+   "partner": "Diversión promocional",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Ningún doctor conoce este truco único, pero con un solo giro de la ruleta, ¡puedes ganar INCREÍBLES PREMIOS!",
+     "player": "¿Qué...? ¿Qué es esto? ¿Puedo cancelar la suscripción?"
+    },
+    {
+     "partner": "No puedes ignorar la ruleta, ¡los premios son enooormes! ¡Gira la ruleta!",
+     "player": "Sal. Ya. De. Mi. Teléfono. ¡Ahora!"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97093_es-XL",
+   "partner": "Mantenimiento de la impresora",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Si sigues robándome el papel, le diré a tu supervisor.",
+     "player": "¡No fui yo! Y no puedes probar nada..."
+    },
+    {
+     "partner": "¿Para qué quieres tanto? BASTA.",
+     "player": "... Está bien. Prométeme que no le dirás a nadie, pero..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97094_es-XL",
+   "partner": "Megan (compañera de trabajo)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¡La torta de cumpleaños está en la cocina! Tú no le tienes alergia al maní, ¿verdad?",
+     "player": "... En realidad, sí. Le tengo muchísima alergia al gluten, {{POPWORD}} y..."
+    },
+    {
+     "partner": "No te preocupes, tengo como cinco jeringas de epinefrina. ¡Una para cada alergia!",
+     "player": "Está bien, eh... ¿No te parece mejor salir y pedir...?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97095_es-XL",
+   "partner": "PRIVADO",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¡ADVERTENCIA! El dinero que trae podría ser falsificado. ¡Encontrémonos para revisarlo!",
+     "player": "¡Guau! Esto parece... muy falso. Muy falso."
+    },
+    {
+     "partner": "No querrás que te encuentren con eso, como a mí. ¡Podría llevar un sobre!",
+     "player": "Tengo que irme. ¡No vuelvas a escribirme, por favor!"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97096_es-XL",
+   "partner": "Jefe (el que da miedo)",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Se acercan despidos. ¿Quién de tu equipo es el más flojo?",
+     "player": "Lamentablemente, a {{PLAYER}} no le ha ido muy bien..."
+    },
+    {
+     "partner": "Qué raro... es justo lo que dijeron de ti...",
+     "player": "¡No pueden despedirme! ¡Nadie más que yo comprende {{POPWORD}}!"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "97097_es-XL",
+   "partner": "El tacaño Mark",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¡Hola, cariño! ¿Por qué no nos escapamos este fin de semana? ¡Hay algunas ofertas maravillosas!",
+     "player": "¡Ah, me halagas! Lo... pensaré."
+    },
+    {
+     "partner": "Bueno, ¡pero decídete pronto! Me gustaría pasar más tiempo contigo. Respetando el presupuesto, claro.",
+     "player": "Sí, claro. ¡No te preocupes! ¡Hablamos luego!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97098_es-XL",
+   "partner": "Hermana mayor",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¡Me casaré en Las Vegas! ¿Puedes viajar mañana? ¡Necesitamos testigos!",
+     "player": "¿¿Otra vez?? ¡No! ¿No te acuerdas de la última vez cuando...?"
+    },
+    {
+     "partner": "Solo te molesta que me case con tu ex ;D.",
+     "player": "¡Ja, ja! ¿En serio? Buena suerte, ese sujeto está lleno de..."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "97099_es-XL",
+   "partner": "Eric, el tímido",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Oye, ¿tenemos que ir a tu fiesta del trabajo esta noche? Yo solo quiero pasar tiempo contigo <3.",
+     "player": "¡Aaaah! Bueno... ¡estoy para lo que sea!"
+    },
+    {
+     "partner": "¡Genial! ¿Quieres venir a verme jugar videojuegos? ¡Te dejo los niveles más fáciles!",
+     "player": "Bueno, sí... Sí, claro. Yo traeré {{POPWORD}}."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97100_es-XL",
+   "partner": "La tía Marie",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¿Podrías buscar en Google cómo arreglar mi reproductor de DVD? xoxo",
+     "player": "Ya te dije que preferiría no hacer esto, pero…"
+    },
+    {
+     "partner": "¡Gracias! ¿Podrías también buscar en Google las salas de emergencia más cercanas? xoxo",
+     "player": "¿Estás bien? ¿Sabes qué? No importa. Están en el 22 de la avenida {{POPWORD}}"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97101_es-XL",
+   "partner": "Jenna Scootertricks",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¡Apuesto a que puedo hacer mejores trucos que tú!... ―Jenna Trucopatín",
+     "player": "¡Ni hablar! Puedo hacer {{POPWORD}} 3000 con mucha facilidad..."
+    },
+    {
+     "partner": "Siento que te estás burlando de mí. ―Jenna Trucopatín",
+     "player": "¡No es así! De hecho, me lastimé gravemente haciendo {{POPWORD}} con 1..."
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97102_es-XL",
+   "partner": "Gato caminando por el teclado",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "faljfaw t;u0t4utoef ;oijf;ajf asldjflasj fcl;sacf;sdj",
+     "player": "Pastelito, quítate del teléfono. ¡Pastelito, fuera!"
+    },
+    {
+     "partner": "ifja waejf;oi jfjsld;fjcs;dfj aslj lkcjls skdjsd {{POPWORD}} 11111111",
+     "player": "¡PASTELITO! ¡QUÍTATE DEL TELÉFONO!"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97103_es-XL",
+   "partner": "Compañera Nancy",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Oye, no olvides que la reunión será en cámara. ¡Prepárate esta vez!",
+     "player": "Está bien. Claro. ¿Podrías explicarlo un poco mejor?"
+    },
+    {
+     "partner": "Solo queremos impresionar al cliente. ¿Entiendes? No como la última vez... ¿el incidente {{POPWORD}}?",
+     "player": "Yo... ¡Está bien! Gracias por el comentario. ¡Yo me encargo!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97104_es-XL",
+   "partner": "Aplicación de compras",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "AVISO: El comprador BLEVIN cambió el artículo \"Espárrago\" por el nuevo artículo \"Manzana (2)\".",
+     "player": "¡No, cancelar! Cambia espárrago por..."
+    },
+    {
+     "partner": "AVISO: El comprador BLEVIN cambió el artículo \"Leche de avena\" por el nuevo artículo \"Servilletas de papel (123)\".",
+     "player": "¡Cancelar! ¡Cancelar! Por favor, al menos dame..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97105_es-XL",
+   "partner": "Dave, el organizador de fiestas",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Oye, ¿dónde crees que deberíamos organizar la fiesta del trabajo? ¿En un bar de moda o en la sala de descanso?",
+     "player": "Eh... ¿Tal vez deberíamos preguntarle a alguien más?"
+    },
+    {
+     "partner": "Sí, haré una encuesta y la pasaré a los demás. Espero que se decidan por la sala de descanso.",
+     "player": "Muy bien. Eso sería... lo mejor, Dave. ¿Ya podemos hablar sobre el proyecto {{POPWORD}}?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97106_es-XL",
+   "partner": "El sujeto del sofá (¿?)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¿Sigue disponible el sofá?",
+     "player": "¿Qué? ¿Quién habla? ¿Eres {{PLAYER}}?"
+    },
+    {
+     "partner": "¿Cómo consiguió mi número?",
+     "player": "¡¡TÚ ME ESCRIBISTE!!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97107_es-XL",
+   "partner": "Noel, Papá",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¡Te daré regalos adicionales si me dices quién se portó mal este año!",
+     "player": "{{PLAYER}} se portó bastante mal. Estas son algunas de las cosas que ha hecho:"
+    },
+    {
+     "partner": "¡TE TENGO! ¡Delatar a los demás también está MAL! Típica trampa de Papá Noel.",
+     "player": "Contraté a {{PLAYER}} para arruinarte la vida. Estas son algunas de las cosas que hará:"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97108_es-XL",
+   "partner": "\"Amigo\" (POSIBLE CORREO NO DESEADO)",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¿Sabes lo que tiene el agua de la canilla? ¡Mi hermano Mike y yo te lo mostraremos!",
+     "player": "¿Qué? ¿Por qué? ¿Quiénes son ustedes?"
+    },
+    {
+     "partner": "Dos sujetos que saben lo que hay en el agua. Y si no confías en mí, ¡confía en Mike!",
+     "player": "¡No! ¡No te conozco ni a ti ni a Mike!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97109_es-XL",
+   "partner": "Papá",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Oye, pequeñín, te envié un meme de un perro gracioso hace rato. El teléfono me confirmó que lo viste. ¿Fue así?",
+     "player": "Ah, sí. ¡Olvidé responderte! Discúlpame."
+    },
+    {
+     "partner": "¡No te preocupes! Pensé en preguntarte ya que no te reíste. Pero es gracioso, ¿o no? ¿El perro?",
+     "player": "Sí. ¡Sí! ¡Ja, ja, ja! ¡Es gracioso!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97128_es-XL",
+   "partner": "Compañera de estudio Denise",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "DE VERDAD tenemos que estudiar. Pensabas que el Muro de Berlín estaba en Francia.",
+     "player": "¿Y no es así? ¿Quién lo dice?"
+    },
+    {
+     "partner": "La mayoría de los historiadores.",
+     "player": "Denise, me estás matando."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97129_es-XL",
+   "partner": "Tu amigo, Luke",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¿Me ayudas a mudarme este viernes? Tengo 75 cajas de piedras y libros pesados.",
+     "player": "Eh... me encantaría, pero tengo que..."
+    },
+    {
+     "partner": "Vamos, eres mi amigo. O le diré a todo el mundo lo que le sucedió a tu hámster.",
+     "player": "¡¿A Olivia?! No te atreverías..."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "97130_es-XL",
+   "partner": "El mago sensual",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Mira mi orbe... Yo soy el mago sensual.",
+     "player": "¿Qué? ¿Qué orbe?"
+    },
+    {
+     "partner": "MIRA MI ORBE... YO SOY EL MAGO SENSUAL",
+     "player": "¿Orbe? Iré en 20 minutos..."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "97131_es-XL",
+   "partner": "La vecina Geraldine",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Apuesto a lucirías muy bien de beige :).",
+     "player": "Mmm... Supongo que sí. Gracias."
+    },
+    {
+     "partner": "Solo luzco bien de naranja.",
+     "player": "Geraldine, noooo. Eres especial..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97132_es-XL",
+   "partner": "El jefe Hank",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Espero que no llegues tarde hoy. Hank.",
+     "player": "¡Pero... tengo una buena excusa! Tuve {{POPWORD}}."
+    },
+    {
+     "partner": "Te atropellaré en el estacionamiento. Hank.",
+     "player": "Noooo... Hank, no de nuevo..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97133_es-XL",
+   "partner": "El empleado temporal, Greg",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¿Qué clase de café te gusta?",
+     "player": "Negro. No, espera... Infusionado en frío..."
+    },
+    {
+     "partner": "¡Me estás mareando! Decídete ya.",
+     "player": "Un café con leche... No, aguarda..."
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97134_es-XL",
+   "partner": "(555) 555-5555",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Hola. ¿Es usted Alfred Molina?",
+     "player": "¿Disculpe? ¿Quién es usted?"
+    },
+    {
+     "partner": "¿El Alfred Molina nominado a los premios BAFTA? Es usted, ¿verdad?",
+     "player": "No, lo siento. Un momento... ¿Usted LO CONOCE?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97135_es-XL",
+   "partner": "UNA PROBABLE ESTAFA",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¡Jeremy! ¡Más vale que no te comas mi ensalada!",
+     "player": "¿Quién es? ¿Cómo consiguió este número?"
+    },
+    {
+     "partner": "Jeremy, te lo advierto. ¡No te comas mi ensalada de huevo!",
+     "player": "¿Está bien? ¿¿Qué??"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "97136_es-XL",
+   "partner": "Eugene",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Gracias por darme un lavado nasal hoy. Siento mucha atracción hacia ti.",
+     "player": "Eh, Eugene... No sé qué..."
+    },
+    {
+     "partner": "¿Tal vez podríamos hacernos lavados nasales mañana, señorita?",
+     "player": "OYE. ESTE... ¿EUGENE?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97137_es-XL",
+   "partner": "Número desconocido",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¡Ciao! ¡Soy yo, Il signor Rigatoni! ¡Prepárate para entrar al paraíso de Alfredo!",
+     "player": "Perdón, ¿quién es usted?"
+    },
+    {
+     "partner": "¡Basta! ¡Il signor Rigatoni no fertilizó un caballo para esto!",
+     "player": "¿Disculpe? ¿Que fertilizó un qué?"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "97202_es-XL",
+   "partner": "Roger, de la oficina temporal.",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Jamás conocí a alguien debido a tinta de impresora. Ja. Soy Roger, por cierto.",
+     "player": "¡Ja! Siempre hay una primera vez para todo, incluso..."
+    },
+    {
+     "partner": "Soy fan de la escala de grises, pero tú prefieres el color turquesa ;D",
+     "player": "Tranquilo, amigo. Ni siquiera me conoces..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97203_es-XL",
+   "partner": "Tecnología de alarma",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Pues sí, parece que debes escribir {{POPWORD}} y presionar # para desactivar la alarma.",
+     "player": "¡No se desactiva! Creí que era {{POPWORD}} y..."
+    },
+    {
+     "partner": "Hago esto TODO el tiempo. No estás presionando los botones correctos.",
+     "player": "¡Me están sangrando los oídos! Pondré esto:"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97204_es-XL",
+   "partner": "La tía Bebe",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Oye, Maní, ¿irás a la fiesta de nacimiento de tu primo tercero?",
+     "player": "Ni siquiera conozco a mi primo tercero... ¿Cuál era su nombre? ¿{{POPWORD}}?"
+    },
+    {
+     "partner": "Irá toda la familia. Sería incómodo que tú no fueras.",
+     "player": "Está bien. Pero NO CONOZCO a estas personas. Diles..."
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97205_es-XL",
+   "partner": "RESEARCH BARN",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¡Saludos! Somos el equipo de Research Barn. ¡Te invitamos a compartir tus comentarios sobre los problemas de tu localidad!",
+     "player": "Escucho. ¿Por cuánto $$$?"
+    },
+    {
+     "partner": "Pues tenemos excelentes noticias: ¡te daremos $35 a cambio de 3 horas de tu tiempo!",
+     "player": "Nop. Tendrán que ofrecerme MUCHO más..."
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97206_es-XL",
+   "partner": "Mobile Eatz",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Hola. Soy Mikaela, de Mobile Eatz. ¿Su dirección es 1260 de Oak Road?",
+     "player": "No, es 1260 de {{POPWORD}} Road! ¿Dónde estás?"
+    },
+    {
+     "partner": "Oh. Lo siento. Esos nombres suenan todos iguales. Daré la vuelta.",
+     "player": "Olvídalo. Volveré a hacer mi pedido y haré que me lo traigan de {{POPWORD}}"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "97207_es-XL",
+   "partner": "Bernice",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Tengo un caballo. ¿Quieres venir a verlo? :D",
+     "player": "¿Qué no vives en un... departamento?"
+    },
+    {
+     "partner": "Su nombre es {{POPWORD}} y sabe cuándo morirás. ¡Es adorable!",
+     "player": "¿Sabes qué, Bernice?... está bien."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97208_es-XL",
+   "partner": "Greg el Emo",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Nada tiene sentido, pero encontré un perro parlanchín.",
+     "player": "¡Greg! ¡Es {{POPWORD}}! ¡¿Qué?! ¡¿Dónde?! ¡¿Cuándo?!"
+    },
+    {
+     "partner": "Nada tiene sentido, pero también sabe hacer volteretas con la patineta.",
+     "player": "¡¿Cómo dices, Greg?! ¡Quiero verlo!"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97209_es-XL",
+   "partner": "Jefe hambriento",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¡Jefe hambriento estar enojado! ¡¿Dónde estar comida de jefe hambriento?!",
+     "player": "Hank, por favor... ¡tienes que parar! Es igual a tu fase {{POPWORD}}."
+    },
+    {
+     "partner": "¡Comida o no hay plan de jubilación!",
+     "player": "Vamos, Hank... esto es ilegal..."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97210_es-XL",
+   "partner": "El vecino Dave",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¿Viste al lentogarto en las noticias?",
+     "player": "¿Lentogarto? ¿A qué te refieres?"
+    },
+    {
+     "partner": "Hablo de ese lagarto que se movía muy lento. ¿Lo ves? Es muy {{POPWORD}}, ¿verdad?",
+     "player": "No lo sé, Dave... Por favor, deja de textearme"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97211_es-XL",
+   "partner": "(NO ES EL REAL) Elton John (ES UNO DIFERENTE)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Oye, solo quería saludar. Soy Elton John, ¿recuerdas? ¿Del trabajo?",
+     "player": "¡Cielos! ¿Elton? ¿John? ¡¿El VERDADERO Elton John?!"
+    },
+    {
+     "partner": "Por favor, no lo hagas. Te demandé antes y lo volveré a hacer.",
+     "player": "¡Eres el Rocket Man! ¡Toca tu canción, {{POPWORD}} Rock!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97212_es-XL",
+   "partner": "Hugo (gárgola viviente)",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Soy una gárgola viviente, lo sé todo... ¿Qué sabes tú?",
+     "player": "¿Yo? Eh... ¡pues sé mucho sobre {{POPWORD}}!"
+    },
+    {
+     "partner": "Al ser una gárgola viviente, esto me molesta... ¿Qué es lo que has hecho con tu vida mortal?",
+     "player": "!Ah! También sé mucho sobre {{POPWORD}}... ¡No tienes que ser tan cruel!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97213_es-XL",
+   "partner": "Diana (hermana)",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¿Qué haremos con papá este fin de semana?",
+     "player": "Creo que debemos distraerlo con {{POPWORD}}. Así:"
+    },
+    {
+     "partner": "No es exactamente lo que tenía en mente.",
+     "player": "Muy bien. Entonces, ¿usamos {{POPWORD}}? Así:"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97214_es-XL",
+   "partner": "Jorge Property",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Hola. soy Jorge Property, el tercer hermano Property. Sé algo... sobre... gabinetes.",
+     "player": "Uh... ¿Acaso es {{PLAYER}}...? Parece que sí."
+    },
+    {
+     "partner": "Quizá no me entendiste. Entiendo extremadamente bien las cocinas de concepto abierto.",
+     "player": "Muy bien. Entonces, ¿es {{PLAYER}}? Es una broma, ¿verdad?"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97215_es-XL",
+   "partner": "Guillaume Mezzanine",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¡JO, JO, JO! ¡SOY GUILLAUME MEZZANINE! ¿Qué quieres recibir en la Navidad estilo Cajun?",
+     "player": "Guillaume, lo que quiero es {{POPWORD}}..."
+    },
+    {
+     "partner": "¡Me encantaría darte un par de langostinos! ¡Son un tipo de cangrejo! ¡JO, JO, JO!",
+     "player": "¡Siempre me das langostinos! ¿Qué tal {{POPWORD}}?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97216_es-XL",
+   "partner": "Una probable estafa",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Puedes calentar líquidos en un horno tostador. Solo viértelos en su interior",
+     "player": "De hecho, lo único que se debería introducir en un horno tostador es {{POPWORD}}."
+    },
+    {
+     "partner": "Me gusta la sopa QUEMADA",
+     "player": "Está bien. ¿Ya probaste {{POPWORD}}?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "97730_es-XL",
+   "id": "97730_es-XL",
+   "partner": "SALMÓN. SALMÓN. SALMÓN.",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¿Acaso quiere engañarme con respecto al salmón, señor Bosephus?",
+     "player": "Tienes el # equivocado, camarada. Es {{PLAYER}}."
+    },
+    {
+     "partner": "No me va a engañar con lo del salmón, señor Bosephus.",
+     "player": "Ja. ¿Y qué te parece, digamos, {{POPWORD}}? ¿Mmm?"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97731_es-XL",
+   "partner": "Sharl, el amigo de mamá",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Te pedí un enjuague frutal libre de químicos. Dice que ya se entregó. ¿Puedes revisar?",
+     "player": "No necesito eso, Sharl..."
+    },
+    {
+     "partner": "Me costó $200. No quiero que unos ladrones se queden con el enjuague.",
+     "player": "Sharl, ¡¿gastaste 200 dólares en un enjuague frutal?!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97732_es-XL",
+   "partner": "Lucifer, Inc.",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Saludos. ¿Te interesa participar en un intercambio lucrativo?",
+     "player": "Uh. ¿Quién es? ¿Cómo conseguiste este número?"
+    },
+    {
+     "partner": "Por favor... solo soy un simple empresario que desea hacer un trato.",
+     "player": "El identificador de llamadas dice que eres \"Lucifer\". Eres el verdadero Lucifer, ¿verdad?"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "97734_es-XL",
+   "id": "97733_es-XL",
+   "partner": "Greg, el TÉCNICO DE SISTEMAS",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Debes traerme tu laptop para actualizar el software. Y hazlo rápido.",
+     "player": "¿Es una computadora personal? ¿Para qué sirve el nuevo software?"
+    },
+    {
+     "partner": "No hay tiempo para explicar. Ven de una vez.",
+     "player": "Um, esto no está es la guía del empleado..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "97735_es-XL",
+   "id": "97734_es-XL",
+   "partner": "Greg, el TÉCNICO DE SISTEMAS (URGENTE)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Es una orden. Tráeme tu laptop marca {{POPWORD}} ahora.",
+     "player": "¿Una orden? Hannah no dijo nada acerca de esto."
+    },
+    {
+     "partner": "Hannah no está a cargo del área de sistemas. Yo lo estoy. Tráeme la computadora.",
+     "player": "Muy bien. Voy a confirmar con Hannah."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "97735_es-XL",
+   "id": "97735_es-XL",
+   "partner": "Greg, el TÉCNICO DE SISTEMAS (ÚLTIMA ADVERTENCIA)",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Ven aquí, ahora. Y trae tu laptop. O enfrenta las consecuencias.",
+     "player": "¡Ya fue suficiente! Hablaré con {{PLAYER}}, su autoridad es superior a la tuya."
+    },
+    {
+     "partner": "Quebrantas mi autoridad como técnico de sistemas. Nadie cuestiona mi destreza informática.",
+     "player": "¿En serio? Entonces, ¿por qué sé que tu contraseña es {{POPWORD}}?"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "97740_es-XL",
+   "id": "97739_es-XL",
+   "partner": "El tío Jerry",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Revisé los síntomas del webdoc.biz. Tengo \"chunxamosis\". Iré a que mi compa me haga una depuración.",
+     "player": "Jerry, eso no existe..."
+    },
+    {
+     "partner": "No me estás escuchando. TENGO CHUNXAMOSIS. ¡Y es mortal! Necesito... una... depuración. ¡Tú también!",
+     "player": "¡Esa enfermedad no existe! ¡Por favor! ¡No vayas con ese sujeto!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "97741_es-XL",
+   "id": "97740_es-XL",
+   "partner": "El tío Jerry (EN CAMINO)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Quieren que creas que la chunxamosis no es real. Voy camino a tu casa. Debemos depurarnos juntos.",
+     "player": "¡No! ¡Tío Jerry! ¡No haré eso!"
+    },
+    {
+     "partner": "Está bien. Necesitará que te hagas la prueba de detección de chunxamosis Y {{POPWORD}}.",
+     "player": "Viejo... no vengas aquí. ¡No le digas mi dirección!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "97741_es-XL",
+   "id": "97741_es-XL",
+   "partner": "El tío Jerry (AFUERA)",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¡Ven! ¡Métete al maletero! No podemos permitir que contagies tu enfermedad a la gente.",
+     "player": "Tío, por favor. Quizá {{PLAYER}} pueda hacerte entrar en razón."
+    },
+    {
+     "partner": "Soy un agente de salubridad contra la chunxamosis. En nombre de la salud pública, te traeré aquí a rastras.",
+     "player": "¡Aléjate, {{POPWORD}} Jerry! ¡O tu {{POPWORD}} recibirá una patada!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97814_es-XL",
+   "partner": "Becky (aún no debería tener un teléfono)",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¿Tía? Papá se dio un GOLPEZOTE en su dedo gordo y gritó {{POPWORD}}. ¿Eso qué significa?",
+     "player": "Oh. Bueno, quizá debas preguntarle a... ¿{{PLAYER}}?"
+    },
+    {
+     "partner": "Pero ¡¿qué significa?! ¡¡Dime, tía!!",
+     "player": "¡No! ¡Luego, vas preguntar qué es {{POPWORD}}!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97815_es-XL",
+   "partner": "Mamá",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Oye, peque, ¿quieres hacer la cena? Haré lo que sea, ¡menos, pizza, tacos, hamburguesas o cualquier cosa picante!",
+     "player": "Mamá... y si... ¿comemos fuera? ¿Qué tal?"
+    },
+    {
+     "partner": "¡No me molesta! Pero nada de ensaladas, sándwiches, sopa ni postres. ¡Todo lo demás está bien!",
+     "player": "¡¿Y qué cosa queda, mamá?! ¡Descartaste casi todo lo comestible!"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "97816_es-XL",
+   "partner": "Eric, el tímido",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Oye, cariño. Creo que tengo un nuevo apodo para ti. ¿Qué te parece {{POPWORD}}?",
+     "player": "¡¿No hay más opciones?! Tal vez, ¿{{POPWORD}}?"
+    },
+    {
+     "partner": "No lo sé... ¡Tiene que ser un apodo que resuma tu esencia y tu belleza!",
+     "player": "Bueno, una expareja me decía {{POPWORD}}. ¿Qué piensas?"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "97817_es-XL",
+   "partner": "El chico de la fiesta",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¿Te acuerdas de mí? Nos conocimos cuando salía con tu amiguis, pero tú siempre me pareciste adorable ;-)",
+     "player": "Pues... ¿gracias? Ah… ¿Cómo está {{PLAYER}}?"
+    },
+    {
+     "partner": "No lo sé, pero si dicen que tengo su waflera, no les creas. ¿Quieres que salgamos a cenar?",
+     "player": "Eh... ¡No, gracias! Pero veré a {{PLAYER}}."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97818_es-XL",
+   "partner": "Bill, el gerente",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Estamos perdiendo nuestra participación en el mercado. TENEMOS que cambiar la situación. ¿Alguna idea?",
+     "player": "Una. Tal vez. Se llama Proyecto {{POPWORD}}."
+    },
+    {
+     "partner": "Interesante... Luego ahondamos en detalles, ahora dame el resumen.",
+     "player": "Sinergia, crecimiento e IA. {{POPWORD}} = el futuro."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97819_es-XL",
+   "partner": "Nancy, la compañera",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Sé que en teoría estás de vacaciones esta semana, pero ¿podrías escribir una propuesta rápida?",
+     "player": "¿Qué? M-Me preocupa el balance entre vida y trabajo."
+    },
+    {
+     "partner": "Lo sé. Estoy a favor de mantener ese balance, pero ¿podrías hacer 20 diapositivas? ¡Gracias!",
+     "player": "Pero... Bua... Te enviaré un borrador al final del día."
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97820_es-XL",
+   "partner": "LLAMADA DESCONOCIDA",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Envíame $1 000 000 o filtraré un archivo supersecreto de tu computadora.",
+     "player": "¿Qué? ¿Cuál archivo? ¿Se llama... \"{{POPWORD}}\"?"
+    },
+    {
+     "partner": "¡Te lo advertí! Mañana, todo el mundo sabrá tus secretos más íntimos.",
+     "player": "¡Espera! ¡Ese archivo le pertenece a {{PLAYER}}!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97821_es-XL",
+   "partner": "NUEVO CONTACTO",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Este es un mensaje de texto automático de parte de la policía del condado. Una persona detenida solicitó que pague su fianza.",
+     "player": "¿Qué? ¿Quién está en la cárcel? ¿Se trata de {{PLAYER}}?"
+    },
+    {
+     "partner": "Seleccionaste realizar el pago con tarjeta de crédito. Usando tarjeta en el archivo ahora.",
+     "player": "¿Qué? ¡No! ¿Aceptas {{POPWORD}}?"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "97895_es-XL",
+   "partner": "Irv",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Confesión: {{PLAYER}} prendó mi corazón desde el verano de 1963. Mi dulce ángel.",
+     "player": "Irv, ¿puedes ver tu teclado? ¿Tomaste tus {{POPWORD}}?"
+    },
+    {
+     "partner": "Tecuerdo cuando se sntaban en mi Pontiac y scuchábamos músik bajo el sol.",
+     "player": "Tu habilidad para escribir está peor. Le diré a {{PLAYER}} que te revise."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97896_es-XL",
+   "partner": "Mona",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¡Hay un millón de fanegas de {{POPWORD}} en el camino!",
+     "player": "Es cierto. ¿Puedes ponerlas en orden? {{PLAYER}} las dejó."
+    },
+    {
+     "partner": "¡Tienes que venir! ¡Tienes un serio problema!",
+     "player": "Es mi pasión. ¿Preferirías que me gustara {{POPWORD}}?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97897_es-XL",
+   "partner": "Departamento de transportes",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Por favor, asiste a la siguiente reunión virtual sobre el cierre del túnel {{POPWORD}}.",
+     "player": "¡BU! Déjame en paz. Sé que trabajas para {{PLAYER}}."
+    },
+    {
+     "partner": "¿Quieres recibir mensajes en el futuro? Responde SÍ. ¿No te interesa? Responde BASTA.",
+     "player": "¡Oh, SÍ! Me encantan tus novedades sobre {{POPWORD}}."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97930_es-XL",
+   "partner": "El jefe Hog",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Descubrí que me dices \"jefe Hog\" a mis espaldas.",
+     "player": "¿Qué? Eso no es cierto. ¿Qué es un \"jefe Hog\"?"
+    },
+    {
+     "partner": "Ahórrate tus excusas, esa conducta no es apropiada. Ven hoy durante mi horario de oficina.",
+     "player": "De todos modos.... ¿qué es un \"jefe Hog\"?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "97931_es-XL",
+   "partner": "Presentador de micrófono abierto",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Hola. Ya no puedes hablar sobre {{POPWORD}} en el escenario.",
+     "player": "¡Pero ese es todo mi acto! O preferirías que hable sobre..."
+    },
+    {
+     "partner": "Esto es serio. Tómate la comedia en serio.",
+     "player": "¡Cómete un {{POPWORD}}, tontaco! La tomo tan en serio que..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97932_es-XL",
+   "partner": "Nancy, la de Recursos Humanos",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¿Qué significa para ti el término \"{{POPWORD}}\"?",
+     "player": "No lo sé... no me suena familiar."
+    },
+    {
+     "partner": "Los clientes aseguran que lo usaste como un eufemismo en la sala de descanso. Explícate.",
+     "player": "¡Claro! Bueno, es un error muy típico. De hecho, es..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97933_es-XL",
+   "partner": "Hooch, el custodio",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Otra persona de medio tiempo hizo un #3 en la escalera... ¿Qué están haciendo para controlar la situación?",
+     "player": "Está bien. En primer lugar, se llama \"{{POPWORD}}\". En segundo lugar..."
+    },
+    {
+     "partner": "No es suficiente. Los custodios dicen que se irán a huelga si no se soluciona esto.",
+     "player": "¡Huelgas no! Esto es lo que podemos ofrecer..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97935_es-XL",
+   "partner": "Mark, del trabajo",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¡RENUNCIO! ¡ME LARGO DE AQUÍ! ¡ME DEDICARÉ A LA PESCA!",
+     "player": "Guau. ¡Bien por ti, Mark!"
+    },
+    {
+     "partner": "GRACIAS. ¿SABES NADAR?",
+     "player": "¡Cielos, Mark! Me preocupas."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97936_es-XL",
+   "partner": "Amy (hermana)",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¿Me prestas dinero? Si me dices que no, me casaré con Laurie.",
+     "player": "¿Qué? No. No lo hagas, por favor."
+    },
+    {
+     "partner": "Bueno, entonces me casaré con Laurie. Soy una mujer muy pequeña.",
+     "player": "¡Urg! ¡Amy! Detesto eso porque:"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97937_es-XL",
+   "partner": "El jefe Jamie",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Hoy me siento triste. ¿Y si vemos comedias románticas? Te trenzaré el cabello.",
+     "player": "¡Jefe! ¡Este no es un mensaje de texto apropiado!"
+    },
+    {
+     "partner": "Me siento triste. Mi pez se mudó :(",
+     "player": "¿Se mudó..? Pero es un pez."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97938_es-XL",
+   "partner": "Mamá",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¡Necesito carbohidratos! ¡Tráeme un tazón de pan!",
+     "player": "Mamá, son las 7:00 a. m. ¿Segura que no quieres {{POPWORD}}?"
+    },
+    {
+     "partner": "¡No ganaré el torneo de ajedrez si no recargo mis carbohidratos! DAME ESE TAZÓN DE PAN.",
+     "player": "Mamá... te diré por qué eso no funcionará:"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97940_es-XL",
+   "partner": "Argo (hermano)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Es tu hermano, Argo. ¿Me puedes ayudar a aprender latín?",
+     "player": "No, tengo mucho por hacer. Estoy trabajando en mi lancha, mi {{POPWORD}}, etc."
+    },
+    {
+     "partner": "Ojalá fueras como nuestro fuerte vecino, Jeremy.",
+     "player": "Jamás seré como él, y te diré por qué:"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97941_es-XL",
+   "partner": "Tony (compañero de trabajo)",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Qué onda. Soy Tony. ¿Y mi sándwich de ensalada de pollo?",
+     "player": "Creo que {{LOWPLAYER}} lo tenía..."
+    },
+    {
+     "partner": "No me enfurezco fácilmente (soy Tony, después de todo), pero esto es absurdo.",
+     "player": "Estoy totalmente de acuerdo. ¿Le preguntaste a {{LOWPLAYER}}?"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97942_es-XL",
+   "partner": "Marcia (jefa)",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¡No hay aumentos este año! ¡No me apetece lidiar con el papeleo!",
+     "player": "¡Pero trabajamos muy duro, Marcia! ¡No todos podemos ser {{HIGHPLAYER}}!"
+    },
+    {
+     "partner": "¡Lo siento! ¡Dejé unas cuántas papitas frías en la refri como disculpa!",
+     "player": "¡No, Marcia! {{HIGHPLAYER}} se pondrá muy triste."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97943_es-XL",
+   "partner": "El tío Matt",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Poca salsa, sin alcaparras ni cebolla.",
+     "player": "No me escribas las indicaciones de tu sándwich. Mejor escríbele a {{LOWWRITER}}."
+    },
+    {
+     "partner": "Tomates, pero solo si están bien maduros. Sino, nada de tomate.",
+     "player": "Tío Matt. Escríbele a {{LOWWRITER}}, por favor..."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97944_es-XL",
+   "partner": "Papá",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Papá quiere pastel. Papi quele pastel. Papito querer pastel.",
+     "player": "Papá, basta. ¡Le diré a {{HIGHWRITER}} que cierre la panadería!"
+    },
+    {
+     "partner": "Yo te di la vida, Ahora, tú dame mi pastel.",
+     "player": "PAPÁ. Le enviaré esto a {{HIGHWRITER}}..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "97956_es-XL",
+   "partner": "Carey, pasante",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¡Hola! ¡Tiempo sin vernos! ¿Puedes escribirme una carta de recomendación?",
+     "player": "Claro. Qué tal así: Carey fue..."
+    },
+    {
+     "partner": "Um. Me gustaría que la enfocaras en nuestra experiencia de trabajo juntos.",
+     "player": "Está bien. Lo haré así: Carey era hábil en..."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "97970_es-XL",
+   "partner": "Chadwick 2N",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Hola, vecino. ¡Encontré tu rata en el callejón! La metí por la puerta del perro, ¡estaba sana y salva!",
+     "player": "¿QUÉ? ¡CHADWICK, PERO QUÉ HICISTE!"
+    },
+    {
+     "partner": "¡Calma! La pequeñita parecía muy molesta.",
+     "player": "¡Yo no tengo ninguna rata! ¡Metiste una rata en mi casa!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "98003_es-XL",
+   "partner": "7-7753",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Estuviste googleando {{POPWORD}}, por lo que el equipo de Spoogly lo estampó en una camiseta para ti.",
+     "player": "Qué raro. Yo no había estado googleando eso."
+    },
+    {
+     "partner": "Sí que lo hiciste. Te encanta. Compra esta camiseta.",
+     "player": "¿Cancelar suscripción? ¿Esto es automático?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "98004_es-XL",
+   "partner": "888-888-8888",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¿En qué canal pasan el horrible programa de Deena Donkey? Rápido, está gritando.",
+     "player": "¿Qué? ¿Quién es? ¿Un bebé está gritando?"
+    },
+    {
+     "partner": "HAROLD. ¡Solo dime dónde está Deena Donkey! ¡Los gritos!",
+     "player": "Asumiré que es un bebé. Como sea, no tengo cable. Lo siento."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98005_es-XL",
+   "partner": "Leslie, la CHICA DEL CHAT",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¿Qué te pareció mi foto, amor?",
+     "player": "Um. Está rara. Me enviaste fotos de alguien que se parece a {{HIGHPLAYER}}. ¿Sabes quién es?"
+    },
+    {
+     "partner": "¿QUÉ? No puede ser. Soy yo, amor.",
+     "player": "¿Te pareces a {{HIGHPLAYER}}? ¡Vaya! Genial."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98006_es-XL",
+   "partner": "Rascaespaldas generoso",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Ya que me mudaré aquí, voy a colgar mi poster de {{POPWORD}}.",
+     "player": "¿Te mudarás aquí? ¿No crees que todo esto es un poco rápido?"
+    },
+    {
+     "partner": "Incluso si no lo hiciera, necesito colgar esa imagen en alguna parte de tu casa.",
+     "player": "Mmm. No negaré que esto es un poco raro."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "98024_es-XL",
+   "partner": "Jill",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Oye, {{LOWPLAYER}}, los informes de mercado que me diste están... manchados.",
+     "player": "Lo siento. Estaba comiendo {{POPWORD}}."
+    },
+    {
+     "partner": "Intenta ser más como {{HIGHPLAYER}}. Sus páginas nunca tienen manchas.",
+     "player": "\"Nota mental: a {{HIGHPLAYER}} no le gustan las manchas\". ¡Entendido!"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "98026_es-XL",
+   "partner": "Boris",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Dile a {{HIGHWRITER}} que se deshaga del pan de centeno de inmediato.",
+     "player": "¡Pero es delicioso! ¡{{HIGHWRITER}} y yo probamos un poco!"
+    },
+    {
+     "partner": "No es apto para consumo. Alguien arrojó {{POPWORD}} sobre él.",
+     "player": "Cielos. Mi {{POPWORD}} me duele..."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98027_es-XL",
+   "partner": "<3 Angélica <3",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Los claveles son plantas desagradables y no me gustan.",
+     "player": "Pero... ¡creí que te gustaban las flores!"
+    },
+    {
+     "partner": "¡Me gustan! Pero los claveles son algo así como la cebolla de las flores.",
+     "player": "¡Me gusta la cebolla! No tenemos nada en común >:("
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98028_es-XL",
+   "partner": "Bob, del campamento musical",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¿Por qué tú y yo jamás terminamos juntos? Hubiésemos sido una pareja realmente imparable...",
+     "player": "Espera. ¿Eres... Bob? ¿Del campamento musical?"
+    },
+    {
+     "partner": "Puedes llamarme así, pero preferiría que me llamaras tu \"pequeño {{POPWORD}}\".",
+     "player": "Oh. Mmm. ¡Qué.... dulce! ¿Todavía cantas en barítono?"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "98029_es-XL",
+   "partner": "Denise, la vicepresidenta",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Mi labor es vigilar a los pasantes que usan la palabra {{POPWORD}}. ¿Sabes lo que eso significa?",
+     "player": "Eh... no. No sabía que eso existía."
+    },
+    {
+     "partner": "Ya veo. Me preocupa que se trate de una violación al código de conducta. ¿Podrías investigarlo?",
+     "player": "Tal vez podríamos... Sí, claro. Investigaré."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "98030_es-XL",
+   "partner": "La prima Lisa",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¡Prima! Inicié mi propio negocio. Tú también podrías... ¡si tuvieras otros 5 amigos interesados!",
+     "player": "¡Oh! ¡Felicidades! ¿De verdad no es una estafa?"
+    },
+    {
+     "partner": "¡JA, JA! ¡Claro que no! Solo dame los correos electrónicos de 10 amigos. ¡Va a ser {{POPWORD}}!",
+     "player": "¿Eso es... bueno? Espera, antes dijiste 5 amigos... ¿ahora son 10?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "98031_es-XL",
+   "partner": "UNA PROBABLE ESTAFA",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Somos tu banco. Un hacker accedió a la información de tu cuenta. Debes proporcionar tu contraseña.",
+     "player": "¡Oh, no! ¡Claro que sí! Mi contraseña es: {{POPWORD}}"
+    },
+    {
+     "partner": "Esta fue una prueba del departamento de fraudes. Fallaste de forma espectacular.",
+     "player": "¡Auch! ¿En serio? ¿Podemos volver a hacerlo? :("
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "98032_es-XL",
+   "partner": "Hermano mayor",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Necesito que me ayudes a mover un mueble este fin de semana, así que cancela tus planes.",
+     "player": "¡Tenía planes con {{LOWPLAYER}}! ¿Qué mueble?"
+    },
+    {
+     "partner": "Está en el departamento de {{HIGHPLAYER}}. Y tenemos que saltar la cerca.",
+     "player": "¿Es... un robo? ¿Vas a robarle a {{HIGHPLAYER}}?"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "98033_es-XL",
+   "partner": "Denise, la vicepresidenta",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Sé que tu objetivo no es ser un Santa secreto, pero necesitamos a una persona más. Te tocó {{LOWWRITER}}.",
+     "player": "Está bien, supongo. ¿Qué le gusta a {{LOWWRITER}}?"
+    },
+    {
+     "partner": "No lo sé. En la encuesta de {{LOWWRITER}} solo dice \"{{POPWORD}}\".",
+     "player": "¿Qué es eso? ¿Y si mejor me toca {{HIGHWRITER}}?"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98037_es-XL",
+   "partner": "Jones el engendro",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Hola. Soy yo, Jones el engendro. ¿Quieren algunos engendros?",
+     "player": "Yo no... gracias."
+    },
+    {
+     "partner": "Jamás conociste a alguien tan atractivo como Jones el engendro.",
+     "player": "¿Y eso qué significa exactamente?"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98039_es-XL",
+   "partner": "Carga En-Breve",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Hola. Soy Carga En-Breve. Te llevaré a cenar hamburguesas.",
+     "player": "Quiero {{POPWORD}}, no hamburguesas."
+    },
+    {
+     "partner": "Carga En-Breve te puede dar eso. Carga En-Breve tiene alma de poeta.",
+     "player": "También quiero {{POPWORD}}. ¡AHORA!"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98040_es-XL",
+   "partner": "Harvey Marge",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¡Mi peque, {{POPWORD}}! ¡Mi corazón, gozoso está! ¡Contigo quiero estar!",
+     "player": "Harvey... tienes que dejar de textearme estas cosas..."
+    },
+    {
+     "partner": "¡Eres el {{POPWORD}} del alma de mi corazón!",
+     "player": "Está bien, Harvey. Te diré por qué esto no está cool:"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98041_es-XL",
+   "partner": "Dulces Carbonara",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Me gustan el tocino y los guisantes; por eso me llaman Dulce Carbonara ;)",
+     "player": "Te amo a ti como un cerdo ama {{POPWORD}} <3"
+    },
+    {
+     "partner": "¿Quieres ser la pimienta molida de mis tallarines? ;)",
+     "player": "¡Sí! Yo también quiero ser tu {{POPWORD}}."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98042_es-XL",
+   "partner": "Dr. Hammerstein",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Tengo una sorpresa sugerente para ti :) Busca en tu bolsa.",
+     "player": "¡Es {{POPWORD}}! Gracias, Dr. Hammerstein."
+    },
+    {
+     "partner": "¡Yo también tengo {{POPWORD}}! El Dr. Hammerstein es el rey del cortejo.",
+     "player": "Lo sé :) ¿Puedo llamarte por tu primer nombre... {{HIGHPLAYER}}?"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "98043_es-XL",
+   "partner": "Mozuelo Arándanez",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Tienes que ser más profesional. Deja de reírte de mi nombre en las reuniones.",
+     "player": "Lo siento. Estaba pensando acerca de {{POPWORD}}."
+    },
+    {
+     "partner": "Por fortuna, desarrollé una piel muy gruesa... tal como los arándanos.",
+     "player": "¡En serio! Estaba pensando en algo divertido, como {{POPWORD}}. Lo siento."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "98044_es-XL",
+   "partner": "Brad el Crujiente",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "La copiadora está AVERIADA y es TU CULPA.",
+     "player": "¡Claro que no! Fue... bueno... ¡{{LOWPLAYER}} lo hizo!"
+    },
+    {
+     "partner": "No me mientas a mí, el único e inigualable Brad el Crujiente. TÚ LA AVERIASTE.",
+     "player": "¡No! Tal vez fue... ¡{{HIGHPLAYER}}!"
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "",
+   "id": "98045_es-XL",
+   "partner": "Veronica Dilema",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Es tu jefa, Veronica Dilema. ¿Dónde están las diapositivas que necesito?",
+     "player": "Saludos, Dra. Dilema. ¿Mandó a llamar a {{LOWWRITER}}?"
+    },
+    {
+     "partner": "Tú y yo tendremos un Dilema estilo Verónica si no tengo esas diapositivas.",
+     "player": "Lo siento, Dra. Dilema. ¿Qué le parece {{HIGHWRITER}}?"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "",
+   "id": "98046_es-XL",
+   "partner": "Papá",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¿Podrías explicarme por qué encontré {{POPWORD}}  en tu habitación?",
+     "player": "¡Papá! ¡No entres en mi habitación!"
+    },
+    {
+     "partner": "¿Por qué? ¿Temes que encuentre {{POPWORD}}?",
+     "player": "De hecho, sí. ¡FUERA de mi habitación!"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98047_es-XL",
+   "partner": "Chaz",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Costa Rica es INCREÍBLE. Sus selvas son preciosas. Tengo que llevarte allí.",
+     "player": "¿LO HARÁS? ¿Me lo prometes?"
+    },
+    {
+     "partner": "Solo digo que si no has visto al ave {{POPWORD}} en persona, no has vivido.",
+     "player": "Pero si te conocí hace apenas 3 horas..."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98048_es-XL",
+   "partner": "Rhonda, la pucherosa",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "¿Cuándo volverás? Echo de menos ver TV contigo y con {{LOWWRITER}}.",
+     "player": "Ay. Acaricia a {{LOWWRITER}} de mi parte."
+    },
+    {
+     "partner": "Perdón. No solo {{LOWWRITER}} quiere caricias ;)",
+     "player": "Lo siento. Rasco detrás de tu {{POPWORD}}"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "98049_es-XL",
+   "partner": "Administración del edificio",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "A todos los residentes: La energía eléctrica fue restaurada. ¡Agradecemos su paciencia!",
+     "player": "¡Todavía no hay energía! ¡Todo el piso sigue a oscuras!"
+    },
+    {
+     "partner": "A todos los residentes: Estamos tratando de restaurar la {{POPWORD}}. Agradecemos su paciencia.",
+     "player": "¿Qué? ¡RESTAUREN LA ENERGÍA, POR FAVOR!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "98050_es-XL",
+   "partner": "888-888-8888",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Hará frío en {{POPWORD}} antes de que recuperes tu dinero.",
+     "player": "¡Cielos! ¡Cálmate! ¿Eres {{PLAYER}}?"
+    },
+    {
+     "partner": "No sé quién es. Pero no recuperarás ni un centavo.",
+     "player": "Bueno, dinero no me falta, así que..."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98051_es-XL",
+   "partner": "Jazz, amigo con beneficio",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¡Buenos días, pastelito! ¡TE AMO! Ups. ¿Yo dije eso? Bueno, ¡es cierto :D!",
+     "player": "Oyeee. Acordamos que esto sería..."
+    },
+    {
+     "partner": "Dices muchas palabras, pero no son las palabras que quiero oír.",
+     "player": "¡ESTÁ BIEN! Bueno, tengo otras palabras:"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98052_es-XL",
+   "partner": "Hannah, la de la nariz linda",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Le di tu número telefónico al restaurante para hacer la reservación. ¿A nombre de quién hago la reservación?",
+     "player": "Usa tu segundo apellido, Hannah {{LOWPLAYER}}."
+    },
+    {
+     "partner": "Pero es tu número telefónico. Entonces, ¿qué nombre uso?",
+     "player": "Mmm... {{HIGHPLAYER}}. Ese es mi nombre. Sabes mi nombre, ¿no?"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "",
+   "id": "98054_es-XL",
+   "partner": "Harmony, la novia <3",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Si tuvieras una cita con una de mis amistades, ¿a cuál elegirías?",
+     "player": "Um... esto no está bien. Es como cuando me preguntaste sobre {{POPWORD}}."
+    },
+    {
+     "partner": "Está bien. Pero entre {{HIGHPLAYER}} y {{LOWPLAYER}}, ¿a quién elegirías?",
+     "player": "Definitivamente a {{HIGHPLAYER}}, pero te explicaré por qué:"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "98060_es-XL",
+   "partner": "IRRASTREABLE",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Agente, tu cubierta está expuesta. Abortar Operación {{POPWORD}}. El encuentro será el refugio.",
+     "player": "¡Hola! ¿Quién es? ¿Eres espía o algo así?"
+    },
+    {
+     "partner": "No. Esto era una... broma. Una broma secreta. No se lo cuentes a nadie.",
+     "player": "¡Lo prometo! ¡Puedes confiar en mí! ¡Buena suerte, espía!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "98061_es-XL",
+   "partner": "Departamento de planificación",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Confirme su cita con el Dr. Siniestro. Para confirmar, diga \"{{POPWORD}}\".",
+     "player": "¿Dijo \"Siniestro\"? No. Desconfirmar. ¡No confirmar!"
+    },
+    {
+     "partner": "Su cita con el Dr. Siniestro se confirmó exitosamente. El doctor lo visitará...",
+     "player": "¿Qué? ¡Dije \"Desconfirmar\"! ¡Aléjese, Dr. Siniestro!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "98093_es-XL",
+   "partner": "LLAMADA NUEVA",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Suscriptor: ¡Puedes ganarte unas vacaciones con todo pagado! ¡Solo dinos cuál es la \"frase que paga\"!",
+     "player": "¡CIELOS! ¡Maravilloso! ¿La frase es... {{POPWORD}}?"
+    },
+    {
+     "partner": "No... definitivamente no es esa. Lo siento. No ganó las vacaciones.",
+     "player": "Espera. ¿Puedo intentarlo de nuevo? ¿Por favor? ¡¿POR FAVOR?!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "",
+   "id": "98094_es-XL",
+   "partner": "Compañía de servicios",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¡Felicidades! ¡Su número clasificó para obtener un teléfono mejor! ¿Le interesa?",
+     "player": "Es posible. ¿Cuáles son mis opciones de mejora? :)"
+    },
+    {
+     "partner": "Tiene una opción: el modelo Fénix. Pero tenga en cuenta que este teléfono HARÁ EXPLOSIÓN.",
+     "player": "Oh, no. ¿Y si me dan {{POPWORD}}?"
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "98156_es-XL",
+   "id": "98155_es-XL",
+   "partner": "Nelson",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Hola, amor :) Soy Nelson :)",
+     "player": "<3 Y soy tu pequeño..."
+    },
+    {
+     "partner": "A Nelson le gusta :) :) :) :) :)",
+     "player": "Será mejor que llames a la policía del amor, porque..."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "98157_es-XL",
+   "id": "98156_es-XL",
+   "partner": "Nelson (de nuevo)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": ":) ¿Te preparaste para una Nelsoneada? :)",
+     "player": "Soy un... flamenco juguetón. Y {{POPWORD}}."
+    },
+    {
+     "partner": "Me tienes totalmente Nelsoneado.",
+     "player": "No encuentro el emoji de berenjena, pero sí lo entiendes."
+    }
+   ]
+  },
+  {
+   "category": "FLIRTY",
+   "followupId": "98157_es-XL",
+   "id": "98157_es-XL",
+   "partner": "¿Adivina quién? Nelson",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Oye, con toda franqueza, ¿esto funciona para ti? Nelson se siente un poco avergonzado.",
+     "player": "Francamente, este no es amor para mí. Prefiero actos de {{POPWORD}}."
+    },
+    {
+     "partner": "Gracias por la honestidad con tu Nelson <3",
+     "player": "¡Cuando quieras! Lo aprendí de {{HIGHPLAYER}}, sus besos son excelentes."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "98159_es-XL",
+   "id": "98158_es-XL",
+   "partner": "Cuentas por pagar",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "¿Te robaron la tarjeta? Tus gastos se ven... raros.",
+     "player": "Ah, sí, tengo una explicación para eso, es que..."
+    },
+    {
+     "partner": "Eso no me preocupa. ¿Podemos hablar por teléfono? Es urgente.",
+     "player": "¿Podemos hablar luego? Voy conduciendo de..."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "98160_es-XL",
+   "id": "98159_es-XL",
+   "partner": "Cuentas por pagar (URGENTE)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¿Quién es \"ANIMALES DE PELUCHE CON DIENTES\"? ¿Y por qué les debemos $7200?",
+     "player": "¡Voy a una reunión! ¡Hablamos después :)!"
+    },
+    {
+     "partner": "No entiendo cómo los artículos de \"ANIMALES DE PELUCHE CON DIENTES\" se pueden considerar gastos de la empresa.",
+     "player": "Es una violación a mis derechos {{POPWORD}}. Haré una demanda."
+    }
+   ]
+  },
+  {
+   "category": "SERIOUS BUSINESS",
+   "followupId": "98160_es-XL",
+   "id": "98160_es-XL",
+   "partner": "ANIMALES CON DIENTES HUMANOS",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Compré una jirafa nueva, ¡y tiene tu nombre!",
+     "player": "¡Excelente, cariño! A esta la llamaré {{LOWPLAYER}}."
+    },
+    {
+     "partner": "¿La misma tarjeta? El costo será muy elevado (necesitaba más dientes).",
+     "player": "¡Así es! Siendo {{HIGHPLAYER}} mi nombre legal, jamás experimentaré las consecuencias de mis actos."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "98163_es-XL",
+   "id": "98162_es-XL",
+   "partner": "Mikey y el parque de patinetas",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Rápido, mi mamá está a punto de enviarte un mensaje... Necesito que mientas sobre lo que hicimos en la noche.",
+     "player": "¡Está bien! Diré que estuvimos en..."
+    },
+    {
+     "partner": "Está muy molesta. Más te vale inventarte algo bueno.",
+     "player": "¡Cuenta conmigo! Esta será nuestra coartada:"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "98164_es-XL",
+   "id": "98163_es-XL",
+   "partner": "La mamá de Mikey",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "¿¿¿DÓNDE HAN ESTADO USTEDES DOS???",
+     "player": "Hola, señora S, ¡cuánto tiempo! Parece estar muy {{POPWORD}} hoy."
+    },
+    {
+     "partner": "TIENES TRES SEGUNDOS PARA DECIRME LA VERDAD, O LLAMARÉ A TU MAMÁ.",
+     "player": "¡De acuerdo! Mikey y yo tuvimos un día muy tranquilo..."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "98164_es-XL",
+   "id": "98164_es-XL",
+   "partner": "Ma <3",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Rápido, la mamá de Mikey llamó a casa. Necesito que mientas y digas que no estoy aquí.",
+     "player": "¡Solo hazlo! ¡Solo di que fuimos a la casa de {{HIGHPLAYER}}!"
+    },
+    {
+     "partner": "Ni hablar. Esa señora me da miedo.",
+     "player": "¡Solo hazlo, Ma! ¡Si no, llamaré a TÚ mamá {{LOWPLAYER}}!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "98175_es-XL",
+   "id": "98174_es-XL",
+   "partner": "Horóscopo diario",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Hoy para ti: ¿Qué significado tiene la frase \"pérdida de cabello\" para ti?",
+     "player": "Por favor, deja de enviarme mensajes o te reportaré a..."
+    },
+    {
+     "partner": "Hoy para ti: ¿Cuál es tu mayor miedo? ¿Y por qué son los cangrejos?",
+     "player": "Me desuscribo. No me gusta su servicio. ¡BASTA!"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "98176_es-XL",
+   "id": "98175_es-XL",
+   "partner": "Horóscopo diario +",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Te damos la bienvenida a la versión gratuita de Horóscopo Diario +. \nHoy para ti: Piscis.... ¿qué son esas cosas?",
+     "player": "Cancelar. Cancelar. Cancelar. ¡Ya no más!"
+    },
+    {
+     "partner": "Hoy para ti: Ten cuidado con los de Virgo, Capricornio y los cables sueltos.",
+     "player": "¿Con qué palabra cancelo esto? ¿Cesar? ¿Parar? ¿{{POPWORD}}?"
+    }
+   ]
+  },
+  {
+   "category": "UNKNOWN NUMBER",
+   "followupId": "98176_es-XL",
+   "id": "98176_es-XL",
+   "partner": "Horóscopo diario plus +",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Te damos la bienvenida a Horóscopo Diario Plus + Hoy para ti: Por favor, ingresa tu luna ascendente y tu núm. de seguro social.",
+     "player": "¡{{HIGHPLAYER}} está al teléfono con el Buró de Mejores Negocios JUSTO AHORA!"
+    },
+    {
+     "partner": "Hoy para ti: Suscríbete a Horóscopo Plus++ para obtener más material de lectura en la categoría: \"Divorcio/Desmembramiento\"",
+     "player": "Un momento... ¿{{LOWPLAYER}} me está engañando?"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "98181_es-XL",
+   "id": "98180_es-XL",
+   "partner": "Rex, el tío abuelo",
+   "round": "FIRST",
+   "texts": [
+    {
+     "partner": "Se me olvida, ¿pero me repites por qué deberías estar en mi testamento?",
+     "player": "¡¡¡Por muchas razones!!! Soy..."
+    },
+    {
+     "partner": "No lo sé... ¿Cómo sé que no eres amable conmigo solo por mi dinero?",
+     "player": "Y también recuerda cuando..."
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "98182_es-XL",
+   "id": "98181_es-XL",
+   "partner": "Rex, el tío abuelo (de nuevo)",
+   "round": "SECOND",
+   "texts": [
+    {
+     "partner": "Espera... ¿te conozco? Dime algo que solo sabría mi sobrino nieto.",
+     "player": "Está bien. ¿Recuerdas cuando vimos esa película sobre {{POPWORD}}?"
+    },
+    {
+     "partner": "Sí. Eres un estafador. ¡Prepárate para una demanda!",
+     "player": "¡Adelante! ¡Soy yo quien gobierna en esta familia, viejo!"
+    }
+   ]
+  },
+  {
+   "category": "FRIENDS-FAMILY",
+   "followupId": "98182_es-XL",
+   "id": "98182_es-XL",
+   "partner": "Mamá",
+   "round": "THIRD",
+   "texts": [
+    {
+     "partner": "Tú y tu tío abuelo deben dejar de demandarse entre ustedes.",
+     "player": "¡Él comenzó! ¡Mi abogado {{HIGHPLAYER}} dice que mi caso es imbatible!"
+    },
+    {
+     "partner": "Si haces una sola demanda más, te sacaré del equipo de lacrosse.",
+     "player": "¡Te demandaré A TI! ¡{{HIGHPLAYER}} te visitará en cualquier momento! ¡RECUÉRDALO!"
+    }
+   ]
+  }
+ ]
+}
