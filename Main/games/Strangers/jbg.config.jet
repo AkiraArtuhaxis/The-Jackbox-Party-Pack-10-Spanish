@@ -1,4 +1,4 @@
-{"joinUrl":"jackbox.lol",
+{
 	"protocol":"https",
 	"supportsFullScreen":"true",
 	"showBuildVersion":"true",
@@ -17,7 +17,7 @@
 	"gameId":"8a34f379-00dc-495b-90de-b2be4382baea",
 	"legalText":"jackboxFmodCriware",
 	"defaultLocale":"en",
-	"joinUrl":"jackbox.tv",
+	"joinUrl":"jackbox.lol",
 	"connectingDurationTrouble":"15000",
 	"gameName":"Strangers",
 	"env":"pc",

@@ -1,7 +1,7 @@
-{"joinUrl":"jackbox.lol",
+{
 	"screenShakeYMagnitude":"5",
 	"env":"pc",
-	"joinUrl":"jackbox.tv",
+	"joinUrl":"jackbox.lol",
 	"supportsKeyboard":"true",
 	"recordingNotePoolSize":"38",
 	"singBehaviorAccuracyThreshold":"0.5",
