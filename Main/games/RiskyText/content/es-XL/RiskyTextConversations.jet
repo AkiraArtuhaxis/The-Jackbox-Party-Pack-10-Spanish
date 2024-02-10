@@ -961,7 +961,7 @@
    "texts": [
     {
      "partner": "¿Acaso quiere engañarme con respecto al salmón, señor Bosephus?",
-     "player": "Tienes el # equivocado, camarada. Es {{PLAYER}}."
+     "player": "Tienes el # equivocado, camarada. Soy {{PLAYER}}."
     },
     {
      "partner": "No me va a engañar con lo del salmón, señor Bosephus.",
